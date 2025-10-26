@@ -35,10 +35,10 @@ The EDA and dashboard focus on answering questions like:
 
 *(**Important:** Add screenshots of your Power BI dashboard visuals here!)*
 
-![Dashboard Screenshot 1](<INSERT_LINK_TO_IMAGE_1>)
+![Dashboard Screenshot 1](<https://github.com/nikhil21418/Telecome-Churn-Analysis/blob/4d6ad4d40fbf7b62e3bda2cb1ce8cab1d7f73918/Screenshot%202025-10-26%20095632.png>)
 _Caption: Overview of churn rate and key influencing factors._
 
-![Dashboard Screenshot 2](<INSERT_LINK_TO_IMAGE_2>)
+![Dashboard Screenshot 2](<https://github.com/nikhil21418/Telecome-Churn-Analysis/blob/4d6ad4d40fbf7b62e3bda2cb1ce8cab1d7f73918/Screenshot%202025-10-26%20095701.png>)
 _Caption: Deep dive into churn by contract type and tenure._
 
 ## 💡 Insights & Conclusion

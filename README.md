@@ -55,4 +55,4 @@ This analysis provides a clear picture of churn dynamics, enabling targeted inte
 
 * The Power BI report (`.pbix` file) requires Power BI Desktop to be opened.
 * Screenshots of the key dashboard pages are included above for a quick overview.
-* *(Optional: If you published your report online, add the link here)* [View Interactive Report Online](<YOUR_PUBLISHED_REPORT_LINK>)
+* *(Optional: If you published your report online, add the link here)* [View Interactive Report Online](<https://app.powerbi.com/view?r=eyJrIjoiN2UyNjZhMDEtZjg1Yi00NDU3LTkzZmMtMjQxMWJlNzA1ZTM1IiwidCI6ImE5NDMxZjg1LTAyMTItNGQ1MC1hMDhjLTExMjM0MGVlM2EzMiJ9>)
